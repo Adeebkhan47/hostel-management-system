@@ -1,0 +1,28 @@
+HOSTEL MANAGEMENT SYSTEM - SHORT DESCRIPTION
+
+🏢 A console-based Hostel Management System developed in C programming language for efficiently managing student records across multiple hostel buildings (BH-1, BH-2, BH-3, GH-1). 
+
+📋 Key Features:
+• Student registration and record management
+• Room assignment tracking (10 rooms per hostel)
+• Personal information storage (contact details, family info, DOB)
+• Rent payment monitoring (₹5000 standard rent)
+• Secure password-protected access
+• File-based data persistence
+
+🎯 Perfect for: Academic projects, learning file handling in C, understanding menu-driven programming, and hostel administration automation.
+
+💻 Built with: C Programming Language using standard libraries (stdio.h, stdlib.h, string.h, time.h)
+
+🎓 Academic Project: Programming Fundamentals Lab - 1st Semester BS(SE) - Group 12
+
+---
+
+GITHUB REPOSITORY DESCRIPTION (One-liner):
+"A comprehensive console-based Hostel Management System in C for managing student records, room assignments, and rent tracking across multiple hostel buildings with secure file-based data storage."
+
+BRIEF SUMMARY (50 words):
+Console-based Hostel Management System developed in C programming language. Manages student records across 4 hostel buildings with features including registration, updates, search, rent tracking, and secure access. Uses file handling for data persistence and provides menu-driven interface for easy navigation.
+
+ELEVATOR PITCH (25 words):
+C-based hostel management system for student record keeping, room assignment, and rent tracking with secure file storage and intuitive menu interface.
